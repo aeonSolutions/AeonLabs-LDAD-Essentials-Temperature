@@ -45,6 +45,7 @@ ________________________________________________________________________________
 - Resistor SMD 1206 330R x3 : https://s.click.aliexpress.com/e/_A7OXrR
 - ESP32 WROOM32 x1 : https://s.click.aliexpress.com/e/_AF7N6l
 
+- This PCB connects with the DS18b20 Temperature sensor : https://s.click.aliexpress.com/e/_AWDAMr 
 
 ## Firmware Download 
 one can use the PCB in the repository [AeonLabs-MCU-Burner-USB-to-UART-TTL](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL) to program the ESP32 WROOM32 MCU on this PCB.
