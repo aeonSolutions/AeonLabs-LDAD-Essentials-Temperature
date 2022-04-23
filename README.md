@@ -1,6 +1,6 @@
 # AeonLabs LDAD Essentials Temperature
 This repo contains the KiCad files for the LDAD Essentials features up to 6 Temperature Sensors has WIFI and BLE connectivity and is powered by a 4.2v Lipo Battery.
-This PCB was made to Fit a [Legrand Aftakdoos Leeq](https://www.google.com/search?q=Legrand+Aftakdoos+leeq&newwindow=1&client=opera&sxsrf=APq-WBudoCNXlyJkT8RVjwlvQol-xiGYpA%3A1650729585719&ei=cSJkYqmqK_GAi-gPo-ey4AQ&ved=0ahUKEwjpps70xqr3AhVxwAIHHaOzDEwQ4dUDCA0&uact=5&oq=Legrand+Aftakdoos+leeq&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKABMgUIIRCgATIFCCEQoAE6BwgAEEcQsAM6BggAEBYQHkoECEEYAEoECEYYAFDhBViiD2DMEGgBcAF4AIABpgGIAfkDkgEDMC40mAEAoAEByAEIwAEB&sclient=gws-wiz) 89x43mm waterproof enclosure 
+This PCB was made to Fit a [Legrand Aftakdoos Leeq](https://www.google.com/search?q=Legrand+Aftakdoos+leeq&newwindow=1&client=opera&sxsrf=APq-WBudoCNXlyJkT8RVjwlvQol-xiGYpA%3A1650729585719&ei=cSJkYqmqK_GAi-gPo-ey4AQ&ved=0ahUKEwjpps70xqr3AhVxwAIHHaOzDEwQ4dUDCA0&uact=5&oq=Legrand+Aftakdoos+leeq&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKABMgUIIRCgATIFCCEQoAE6BwgAEEcQsAM6BggAEBYQHkoECEEYAEoECEYYAFDhBViiD2DMEGgBcAF4AIABpgGIAfkDkgEDMC40mAEAoAEByAEIwAEB&sclient=gws-wiz) 89x43mm waterproof enclosure )
 
 ![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs_LDAD_Essentials_Temperature.svg)
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-LDAD-Essentials-Temperature/total?style=for-the-badge)
@@ -46,6 +46,9 @@ ________________________________________________________________________________
 - ESP32 WROOM32 x1 : https://s.click.aliexpress.com/e/_AF7N6l
 
 - This PCB connects with the DS18b20 Temperature sensor : https://s.click.aliexpress.com/e/_AWDAMr 
+
+## PCB Enclosure
+The enclosure for this PCB can be bought online by searching for "[Legrand Aftakdoos Leeq](https://www.google.com/search?q=Legrand+Aftakdoos+leeq&newwindow=1&client=opera&sxsrf=APq-WBudoCNXlyJkT8RVjwlvQol-xiGYpA%3A1650729585719&ei=cSJkYqmqK_GAi-gPo-ey4AQ&ved=0ahUKEwjpps70xqr3AhVxwAIHHaOzDEwQ4dUDCA0&uact=5&oq=Legrand+Aftakdoos+leeq&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKABMgUIIRCgATIFCCEQoAE6BwgAEEcQsAM6BggAEBYQHkoECEEYAEoECEYYAFDhBViiD2DMEGgBcAF4AIABpgGIAfkDkgEDMC40mAEAoAEByAEIwAEB&sclient=gws-wiz) 89x43mm waterproof enclosure )"
 
 ## Firmware Download 
 one can use the PCB in the repository [AeonLabs-MCU-Burner-USB-to-UART-TTL](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL) to program the ESP32 WROOM32 MCU on this PCB.
