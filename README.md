@@ -1,4 +1,4 @@
-# AeonLabs-LDAD-Essentials-Temperature
+# AeonLabs LDAD Essentials Temperature
 This repo contains the KiCad files for the LDAD Essentials features up to 6 Temperature Sensors has WIFI and BLE connectivity and is powered by a 4.2v Lipo Battery.
 This PCB was made to Fit a [Legrand Aftakdoos Leeq](https://www.google.com/search?q=Legrand+Aftakdoos+leeq&newwindow=1&client=opera&sxsrf=APq-WBudoCNXlyJkT8RVjwlvQol-xiGYpA%3A1650729585719&ei=cSJkYqmqK_GAi-gPo-ey4AQ&ved=0ahUKEwjpps70xqr3AhVxwAIHHaOzDEwQ4dUDCA0&uact=5&oq=Legrand+Aftakdoos+leeq&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKABMgUIIRCgATIFCCEQoAE6BwgAEEcQsAM6BggAEBYQHkoECEEYAEoECEYYAFDhBViiD2DMEGgBcAF4AIABpgGIAfkDkgEDMC40mAEAoAEByAEIwAEB&sclient=gws-wiz) 89x43mm waterproof enclosure 
 
@@ -33,8 +33,8 @@ If you like this , but on another NEXTION LCD TOUCH, drop me a DM on whatsApp [h
 
 #### Be supportive of my dedication and work towards technology education and buy me a coffee. Link below.
 
-![](https://github.com/aeonSolutions/AeonLabs-Nextion-7--LCD-Touch-PCB-Addon-/blob/main/designs/pcb_front.png)
-![](https://github.com/aeonSolutions/AeonLabs-Nextion-7--LCD-Touch-PCB-Addon-/blob/main/designs/pcb_back.png)
+![](https://github.com/aeonSolutions/AeonLabs-LDAD-Essentials-Temperature/blob/main/designs/pcb_front.png)
+![](https://github.com/aeonSolutions/AeonLabs-LDAD-Essentials-Temperature/blob/main/designs/pcb_back.png)
 
 ________________________________________________________________________________________________________________
 
