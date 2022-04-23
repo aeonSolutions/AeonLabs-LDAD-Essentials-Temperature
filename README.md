@@ -50,6 +50,8 @@ ________________________________________________________________________________
 ## PCB Enclosure
 The enclosure for this PCB can be bought online by searching for "[Legrand Aftakdoos Leeq](https://www.google.com/search?q=Legrand+Aftakdoos+leeq&newwindow=1&client=opera&sxsrf=APq-WBudoCNXlyJkT8RVjwlvQol-xiGYpA%3A1650729585719&ei=cSJkYqmqK_GAi-gPo-ey4AQ&ved=0ahUKEwjpps70xqr3AhVxwAIHHaOzDEwQ4dUDCA0&uact=5&oq=Legrand+Aftakdoos+leeq&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKABMgUIIRCgATIFCCEQoAE6BwgAEEcQsAM6BggAEBYQHkoECEEYAEoECEYYAFDhBViiD2DMEGgBcAF4AIABpgGIAfkDkgEDMC40mAEAoAEByAEIwAEB&sclient=gws-wiz)".
 
+![](https://github.com/aeonSolutions/AeonLabs-LDAD-Essentials-Temperature/blob/main/designs/enclosure.jpg)
+
 ## Firmware Download 
 one can use the PCB in the repository [AeonLabs-MCU-Burner-USB-to-UART-TTL](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL) to program the ESP32 WROOM32 MCU on this PCB.
 
