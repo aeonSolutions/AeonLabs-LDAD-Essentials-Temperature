@@ -44,6 +44,7 @@ ________________________________________________________________________________
 - Capacitor 2.2uF SMD 1206 : https://s.click.aliexpress.com/e/_AVdmzr
 - Resistor SMD 1206 330R x3 : https://s.click.aliexpress.com/e/_A7OXrR
 - ESP32 WROOM32 x1 : https://s.click.aliexpress.com/e/_AF7N6l
+- KF350 Screw pitch 3.5mm Straight 3 Pin pcb terminal block : https://s.click.aliexpress.com/e/_AChDnp
 
 - This PCB connects with the DS18b20 Temperature sensor : https://s.click.aliexpress.com/e/_AWDAMr 
 
