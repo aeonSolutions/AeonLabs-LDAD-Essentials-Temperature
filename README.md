@@ -1,3 +1,8 @@
+<p align="right">
+ <a href="https://github-com.translate.goog/aeonSolutions/PCB-Prototyping-Catalogue/tree/main?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
+Last update: 01-12-2023
+</p>
+
 # AeonLabs LDAD Essentials Temperature
 This repo contains the KiCad files for the LDAD Essentials features up to 6 Temperature Sensors has WIFI and BLE connectivity and is powered by a 4.2v Lipo Battery.
 This PCB was made to Fit a [Legrand Aftakdoos Leeq](https://www.google.com/search?q=Legrand+Aftakdoos+leeq&newwindow=1&client=opera&sxsrf=APq-WBudoCNXlyJkT8RVjwlvQol-xiGYpA%3A1650729585719&ei=cSJkYqmqK_GAi-gPo-ey4AQ&ved=0ahUKEwjpps70xqr3AhVxwAIHHaOzDEwQ4dUDCA0&uact=5&oq=Legrand+Aftakdoos+leeq&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKABMgUIIRCgATIFCCEQoAE6BwgAEEcQsAM6BggAEBYQHkoECEEYAEoECEYYAFDhBViiD2DMEGgBcAF4AIABpgGIAfkDkgEDMC40mAEAoAEByAEIwAEB&sclient=gws-wiz) 89x43mm waterproof enclosure.
@@ -43,9 +48,7 @@ The price starts at 30eur plus postage fees.
 ![](https://github.com/aeonSolutions/AeonLabs-LDAD-Essentials-Temperature/blob/main/designs/pcb_front.png)
 ![](https://github.com/aeonSolutions/AeonLabs-LDAD-Essentials-Temperature/blob/main/designs/pcb_back.png)
 
-________________________________________________________________________________________________________________
-## [Go back to main catalogue page](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)
-________________________________________________________________________________________________________________
+
 
 ## PCB Parts list
 - DC2DC converter HX4002B x2 : https://s.click.aliexpress.com/e/_Ak7IPx
